@@ -111,9 +111,3 @@ CYCLING\_TOUR/
 |------------------------|
 | [![Video](http://img.youtube.com/vi/791rWW2YYak/0.jpg)](https://www.youtube.com/watch?v=791rWW2YYak) |
 
----
-
-## 🏷 GitHub Topics
-`unity3d` • `fitness-game` • `ble-sensor` • `cinemachine` • `cycling-game` • `iot-fitness` • `esp32` • `webview` • `gamification` • `unity-ui`
-
----
